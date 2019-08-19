@@ -80,15 +80,15 @@ header .profile-image:hover {
   background-color: #efefef;
   /* opacity: 0.8; */
   /* border: solid 3px red; */
-  color:#353533;
+  color:#005582;
   padding: 10px;
   border-radius: 2px;
   display: table;
   margin: 10px auto;
 } 
 .location {
-  background-color: #353533;
-  color: #97C8DB;
+  background-color: #005582;
+  color: white;
 }
 .card {
   margin: 30px;
@@ -148,7 +148,7 @@ footer ul li {
 a.social {
   display: inline-block;
   text-indent: -9999px;
-  margin-left: 5px;
+  margin-left: 4px;
   width: 30px;
   height: 30px;
   background-size: 30px 30px;
