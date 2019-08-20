@@ -74,7 +74,7 @@ header .profile-image {
   transition: all .5s;
 }
 header .profile-image:hover {
-  transform: scale(1.2) rotate(2deg);
+  transform: scale(1.7) rotate(180deg);
 }
 .tag {
   background-color: #efefef;
@@ -89,6 +89,7 @@ header .profile-image:hover {
 .location {
   background-color: #005582;
   color: white;
+  padding: 5px 26px;
 }
 .card {
   margin: 30px;
@@ -98,7 +99,7 @@ header .profile-image:hover {
   background: #fff;
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
-  transition: all .5s;
+  transition: all .15s;
 }
 .card:hover {
   border-color:#74ABD6;
