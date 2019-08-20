@@ -118,6 +118,25 @@ header .profile-image:hover {
 .about:hover {
   border-color:#74ABD6;
 }
+.experience {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 100%;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+.experience:hover {
+  border-color:#74ABD6;
+}
+
+span {
+  font-size: 14px;
+  color:#BEBEBE;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
