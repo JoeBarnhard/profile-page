@@ -104,6 +104,19 @@ header .profile-image:hover {
   border-color:#74ABD6;
 }
 
+.about {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 100%;
+  text-align: left;
+  background: #fff;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+.about:hover {
+  border-color:#74ABD6;
+}
 ul.skills {
   padding: 0;
   text-align: center;
